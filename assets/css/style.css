@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@0,400;0,700;&display=swap');
+
+body {
+    display: block;
+    background-image: url("https://pbs.twimg.com/media/E9GI48BXsAUV_1f?format=jpg&name=4096x4096");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+.wall {
+    margin-top: 35%;
+    height: 100%;
+}
+
+h1, h3 {
+    text-align: center;
+    color: #fff;
+}
+
+h1{
+    font-size: 5em;
+    font-family: "Ubuntu", monospace;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 2em;
+    font-family: "Ubuntu", monospace;
+    font-weight: 400;
+}
