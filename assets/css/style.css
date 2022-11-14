@@ -44,7 +44,7 @@ h3 {
     }
     h3 {
         font-size: 1em;
-        padding-left: none;
+        padding-left: 0px;
         writing-mode: horizontal-tb;
     }
 }
