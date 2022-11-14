@@ -39,11 +39,11 @@ h3 {
 
 @media screen and (max-width: 460px) {
     h1 {
-        font-size: 3em;
+        font-size: 3.8em;
         writing-mode: vertical-rl;
     }
     h3 {
-        font-size: 1em;
+        font-size: 1.2em;
         padding-left: 0px;
         writing-mode: horizontal-tb;
     }
