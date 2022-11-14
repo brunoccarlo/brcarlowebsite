@@ -39,7 +39,7 @@ h3 {
 
 @media screen and (max-width: 460px) {
     h1 {
-        font-size: 4em;
+        font-size: 3em;
         writing-mode: vertical-rl;
     }
     h3 {
